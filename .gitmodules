@@ -1,0 +1,6 @@
+[submodule "Advanced-Data-Structures-lab_1"]
+	path = Advanced-Data-Structures-lab_1
+	url = https://github.com/predutalexia/Advanced-Data-Structures-lab_1.git
+[submodule "Advanced-Data-Structures-lab_2"]
+	path = Advanced-Data-Structures-lab_2
+	url = https://github.com/predutalexia/Advanced-Data-Structures-lab_2.git
