@@ -16,3 +16,6 @@
 [submodule "lab9/Advanced-Data-Structures-lab_8"]
 	path = lab9/Advanced-Data-Structures-lab_8
 	url = https://github.com/predutalexia/Advanced-Data-Structures-lab_8.git
+[submodule "Advanced-Data-Structures-lab_8"]
+	path = Advanced-Data-Structures-lab_8
+	url = https://github.com/predutalexia/Advanced-Data-Structures-lab_8.git
